@@ -11,7 +11,7 @@ root.geometry("400x500")
 titulo = tk.Label(root, text="Menu Principal", font=("Arial", 18, "bold"))
 titulo.pack(pady=20)
 botoes = [
-    ("Calculadora de Bhaskara", abrir_bhaskara),
+    ("teste de Bhaskara", abrir_bhaskara),
     ("Teorema de Pitágoras", abrir_pitagoras),
     ("Trigonometria", abrir_trigonometria),
     ("Reta no Plano Cartesiano", abrir_reta),
